@@ -1,45 +1,50 @@
-<div align="center">
-  <h1>
-    Hi there, I'm Rao Hai!
-    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
-  </h1>
+# 👋 Hi there, I'm Joji!
 
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
-
-  <p>
-    <em>🚀 Full Stack / AI Engineer at <a href="https://afx-team.github.io/">Alipay Experience Technology Department</a></em>
-  </p>
-
-  <p>
-    <a href="https://github.com/RaoHai">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
-    </a>
-    <a href="https://github.com/RaoHai">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
-    </a>
-  </p>
-</div>
+🎯 I'm an aspiring **software developer** learning **C++** and **C#**.  
+💻 I love exploring how things work, building small projects, and improving every day.
 
 ---
 
-## 🎤 Conference Presentations
-
-- **[第十三届中国用户体验大会](https://www.uxacn.com/)**  / AI Agent for Accessibility
-
-- **[W3C WebEvolve 2025](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/high-perf.en.html)**  / [Exploration of Rendering Containers and Dynamic Architectures for Web-based AI agents](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/slides/hai-rao.pdf)
-
-- **[GMTC 2021](https://gmtc.infoq.cn/2021/beijing/presentation/3526)** /  [蚂蚁前端灰度监控与变更防御](https://gmtc.infoq.cn/2021/beijing/presentation/3526)
+### 🚀 About Me
+- 🌱 Currently learning **C++** and **C#** to strengthen my programming foundation.  
+- 🎮 Interested in **game development**, **problem solving**, and **system programming**.  
+- ⚙️ Using **Linux Mint**, **VS Code**, and **GitHub** as my main tools.  
+- 🧠 Always curious to learn something new and share knowledge.  
 
 ---
 
-## 📝 Latest Blog Posts
+### 🧩 Languages & Tools
 
-- 🌐 [2023 Google I/O Connect Shanghai 参会总结：云，AI 与 Web](https://yuque.com/luchen/buzhou/lbtio5z9p8gssn26) - September 11, 2023
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,git,github,vscode,linux" />
+</p>
 
-- 📊 [[个人向] Google State of DevOps Reports 2022 解读](https://yuque.com/luchen/buzhou/za1pom) - October 18, 2022
+---
 
-- 🔍 [在没有 SourceMap 的情况下反解源码](https://yuque.com/luchen/buzhou/dpbum7) - July 12, 2021
+### 📫 Connect with Me
+<p>
+  <a href="https://github.com/joji" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-joji-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🎨 [为自己的团队定制 CSS 框架](https://yuque.com/luchen/buzhou/bs9tzt) - March 2, 2021
+---
 
-- 🔗 [How I Built A Self-Updating README by Webhooks and Netlify Functions.](https://yuque.com/luchen/buzhou/hga8n6) - July 20, 2020
+### 🎮 My Coding Journey
+> “Code, learn, repeat.”  
+
+I believe the best way to improve is by **building**, **breaking**, and **fixing** things.  
+Stay tuned — I’ll be sharing small projects and experiments soon!
+
+---
+
+### 🧠 Fun Section
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joji&show_icons=true&theme=tokyonight" alt="joji's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joji&layout=compact&theme=tokyonight" alt="Top Langs" width="330"/>
+</p>
+
+---
+
+⭐ *“The journey of a thousand lines of code begins with a single semicolon.”*
